@@ -87,7 +87,7 @@ The project follows the **MVVM (Model-View-ViewModel)** pattern:
 1. Clone the repository
 
 ```bash id="pm1"
-git clone https://github.com/your-username/PasswordManager-iOS.git
+git clone https://github.com/pranavpatel172000/PasswordManager-iOS.git
 ```
 
 2. Open in Xcode
